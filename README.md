@@ -3,19 +3,27 @@
 ## Project Name:FEED KC
 ## Team pvm members
 Pavan kumar Chongala   16273361
+
 Saivarun Gadewara      16273545
+
 Manohar bollampally    16261464 
 
 ## Introduction:
 Feed kc is a browser based system that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management
+
 This project aims at maintaining all the information pertaining to food donors, different food available in each Location and help them manage in a better way
 
 ## Softwares and tools used
 php 
+
 html
+
 javascript
+
 css
+
 mysql
+
 xampp
 
 ## user-end view
@@ -39,22 +47,36 @@ aboutus page:description of the website and admins working
 
 ### Donor panel:
 This page is the welcome page of the donor panel. In this page include all the module related to Donor like :
-Change password 
+
+Change password
+
 Update profile 
+
 DONATE FOOD
+
 View donation
+
 View requests
+
 Logout
 
 
 ## Admin view:
+
 ### Admin pannel:
+
 This page is USED FOR ADMIN TO ADD, DELETE, UPDATE AND VIEW DETAILS OF
+
 USER
+
 CITY
+
 STATE
+
 CAMP
+
 LOCATION
+
 GALLERY
 
 
