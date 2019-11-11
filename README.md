@@ -8,6 +8,12 @@ Saivarun Gadewara      16273545
 
 Manohar bollampally    16261464 
 
+video Link: https://youtu.be/4iKc-kAas5E
+
+source code link: https://github.com/srikarpavan/UMKCHackathon_fall2019/tree/master/source%20code/FoodBank
+
+ppt link:https://github.com/srikarpavan/UMKCHackathon_fall2019/tree/master/doc
+
 ## Introduction:
 Feed kc is a browser based system that is designed to store, process, retrieve and analyze information concerned with the administrative and inventory management
 
