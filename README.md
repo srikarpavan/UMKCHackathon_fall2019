@@ -2,11 +2,11 @@
 
 ## Project Name:FEED KC
 ## Team pvm members
-Pavan kumar Chongala   16273361
+Pavan kumar Chongala   16273361 mail:scvkp@mail.umkc.edu
 
-Saivarun Gadewara      16273545
+Saivarun Gadewara      16273545 mail:mb6kw@mail.umkc.edu
 
-Manohar bollampally    16261464 
+Manohar bollampally    16261464 mail:sgycr@mail.umkc.edu
 
 video Link: https://youtu.be/4iKc-kAas5E
 
